@@ -1,3 +1,5 @@
 var n1:number =10;
 
-console.log(n1);
+
+var s1:string = "Hello, how are you? Are you okay? Really?";
+console.log(s1);
