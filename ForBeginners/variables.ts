@@ -1,5 +1,9 @@
-var n1:number =10;
+// npx tsc --watch
+
+// npx tsc ForBeginners/variables.ts
+
+var s1:string = "Hello, good evening! Are you ready to learn TypeScript?";
 
 
-var s1:string = "Hello, how are you? Are you okay? Really?";
-console.log(s1);
+var s2:string = `You can do anything with TypeScript.`;
+console.log(s2);
